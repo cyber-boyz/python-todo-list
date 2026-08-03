@@ -1,7 +1,7 @@
 """
 Project 1: To-Do List Application
 ----------------------------------
-A simple console-based To-Do List built using Python Lists.
+A simple console-based To-Do List built using Python code.
 
 Core concepts demonstrated:
 - Lists and .append()
